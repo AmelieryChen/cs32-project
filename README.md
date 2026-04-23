@@ -1,6 +1,6 @@
 # cs32-project
 
-Hi, this is Sirjia and Amelie and our final CS32 Project will be creating an Art Curator
+Hi, this is Sirja and Amelie and our final CS32 Project will be creating an Art Curator
 
 
 Museum Curator:
